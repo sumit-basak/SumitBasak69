@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SumitBasak69
+- 👋 Hi, I’m @sumit-basak
 - 👀 I’m interested in getting more experience.
 - 🌱 I’m currently learning new things.
 - 💞️ I’m looking to collaborate on developing android application.
